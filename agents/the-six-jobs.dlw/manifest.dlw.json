@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Six Jobs",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "spiritual",
+  "moniker": "⟦The Six Jobs:FF1:86c193⟧",
+  "carbon": "the-six-jobs.carbon.tiff (TIFF)",
+  "silicon": "the-six-jobs.silicon.png (PNG)",
+  "seal_sha256": "68946d92f5174f6c2e6adea3b5837740b240a9636f944ded4a1116a504c122d1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

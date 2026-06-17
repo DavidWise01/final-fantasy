@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Bahamut",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "natural",
+  "moniker": "⟦Bahamut:FF1:ac5f22⟧",
+  "carbon": "bahamut.carbon.tiff (TIFF)",
+  "silicon": "bahamut.silicon.png (PNG)",
+  "seal_sha256": "767de2e59856b275d0bd6dfd2729b8277f55d15d4fdd0da78082570b623a071d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Four Orbs",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "spiritual",
+  "moniker": "⟦The Four Orbs:FF1:611668⟧",
+  "carbon": "the-four-orbs.carbon.tiff (TIFF)",
+  "silicon": "the-four-orbs.silicon.png (PNG)",
+  "seal_sha256": "8d0555fc4e37f818354cd2feab839eec5ed986f98ee95ab621fef1234874e370",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

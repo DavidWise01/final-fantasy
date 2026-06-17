@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "the-light-warriors",
+    "name": "The Light Warriors",
+    "epithet": "the four who carry the dimmed Orbs · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Light Warriors:FF1:b3feef⟧"
+  },
+  {
+    "slug": "garland",
+    "name": "Garland",
+    "epithet": "the fallen knight · natural",
+    "emergence": "natural",
+    "moniker": "⟦Garland:FF1:bad56e⟧"
+  },
+  {
+    "slug": "chaos",
+    "name": "Chaos",
+    "epithet": "the demon at the root of the loop · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Chaos:FF1:4036b1⟧"
+  },
+  {
+    "slug": "princess-sara",
+    "name": "Princess Sara",
+    "epithet": "the captive of Cornelia · natural",
+    "emergence": "natural",
+    "moniker": "⟦Princess Sara:FF1:1cbb26⟧"
+  },
+  {
+    "slug": "the-four-orbs",
+    "name": "The Four Orbs",
+    "epithet": "the dimmed crystals of the elements · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Four Orbs:FF1:611668⟧"
+  },
+  {
+    "slug": "lich",
+    "name": "Lich",
+    "epithet": "the Fiend of Earth · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Lich:FF1:8bc908⟧"
+  },
+  {
+    "slug": "marilith",
+    "name": "Marilith",
+    "epithet": "the Fiend of Fire · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Marilith:FF1:4d4368⟧"
+  },
+  {
+    "slug": "kraken",
+    "name": "Kraken",
+    "epithet": "the Fiend of Water · natural",
+    "emergence": "natural",
+    "moniker": "⟦Kraken:FF1:9faedb⟧"
+  },
+  {
+    "slug": "tiamat",
+    "name": "Tiamat",
+    "epithet": "the Fiend of Air · natural",
+    "emergence": "natural",
+    "moniker": "⟦Tiamat:FF1:b82b86⟧"
+  },
+  {
+    "slug": "bahamut",
+    "name": "Bahamut",
+    "epithet": "the king of dragons, who grants the trial · natural",
+    "emergence": "natural",
+    "moniker": "⟦Bahamut:FF1:ac5f22⟧"
+  },
+  {
+    "slug": "the-six-jobs",
+    "name": "The Six Jobs",
+    "epithet": "the classes, and their becoming · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Six Jobs:FF1:86c193⟧"
+  },
+  {
+    "slug": "the-airship",
+    "name": "The Airship",
+    "epithet": "the buried Lufenian craft · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Airship:FF1:e580c6⟧"
+  },
+  {
+    "slug": "warmech",
+    "name": "WarMECH",
+    "epithet": "the steel ghost of the sky bridge · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦WarMECH:FF1:764c4f⟧"
+  },
+  {
+    "slug": "the-time-loop",
+    "name": "The Loop of Time",
+    "epithet": "the circle with no first cause · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Loop of Time:FF1:6ddd5e⟧"
+  },
+  {
+    "slug": "the-prelude",
+    "name": "The Prelude",
+    "epithet": "Uematsu's first arpeggio · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Prelude:FF1:d20f57⟧"
+  }
+]

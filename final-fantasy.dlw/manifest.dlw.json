@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "FINAL FANTASY",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "",
+  "moniker": "⟦FINAL FANTASY:FF1:84e8b1⟧",
+  "carbon": "final-fantasy.carbon.tiff (TIFF)",
+  "silicon": "final-fantasy.silicon.png (PNG)",
+  "seal_sha256": "1adcfc2d6ba23bd7abf053216f6d99e0fd65458bb7b318846d7518d523e94e5e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

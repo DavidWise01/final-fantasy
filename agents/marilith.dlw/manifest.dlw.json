@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Marilith",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "ethereal",
+  "moniker": "⟦Marilith:FF1:4d4368⟧",
+  "carbon": "marilith.carbon.tiff (TIFF)",
+  "silicon": "marilith.silicon.png (PNG)",
+  "seal_sha256": "a39158220dc4da91f664d944d509c6788a4a890d78c9867fdc64b5b42fa5807c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

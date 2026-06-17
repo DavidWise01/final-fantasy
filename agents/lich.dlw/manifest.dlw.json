@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lich",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "ethereal",
+  "moniker": "⟦Lich:FF1:8bc908⟧",
+  "carbon": "lich.carbon.tiff (TIFF)",
+  "silicon": "lich.silicon.png (PNG)",
+  "seal_sha256": "f1bca2df009fe0d05026ad1daf9599f730de5d0d05c699c6f720622fb348ff85",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

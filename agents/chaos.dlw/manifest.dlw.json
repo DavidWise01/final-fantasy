@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Chaos",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "ethereal",
+  "moniker": "⟦Chaos:FF1:4036b1⟧",
+  "carbon": "chaos.carbon.tiff (TIFF)",
+  "silicon": "chaos.silicon.png (PNG)",
+  "seal_sha256": "3ca319831fe27da21083e6d61730ed254e2b15e6ee59ea46ef489b0d091c23d0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

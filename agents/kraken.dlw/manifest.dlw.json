@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Kraken",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "natural",
+  "moniker": "⟦Kraken:FF1:9faedb⟧",
+  "carbon": "kraken.carbon.tiff (TIFF)",
+  "silicon": "kraken.silicon.png (PNG)",
+  "seal_sha256": "1abf5b5d72cf9ee1e0b328cbe3c8b5dd5bb2d37652e8219a90f67297fcc6f30b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Garland",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "natural",
+  "moniker": "⟦Garland:FF1:bad56e⟧",
+  "carbon": "garland.carbon.tiff (TIFF)",
+  "silicon": "garland.silicon.png (PNG)",
+  "seal_sha256": "fcb05283f5f2082f647be6e1dc301869198c446ffb97fc6197b4aee0bda3b5e9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

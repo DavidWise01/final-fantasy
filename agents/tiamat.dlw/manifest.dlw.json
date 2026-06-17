@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tiamat",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "natural",
+  "moniker": "⟦Tiamat:FF1:b82b86⟧",
+  "carbon": "tiamat.carbon.tiff (TIFF)",
+  "silicon": "tiamat.silicon.png (PNG)",
+  "seal_sha256": "51a654e263f49e2b22275de4a7c31f09395cad13103d9503306d93caea9ae996",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

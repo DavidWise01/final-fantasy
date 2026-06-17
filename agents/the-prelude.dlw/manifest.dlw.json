@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Prelude",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "spiritual",
+  "moniker": "⟦The Prelude:FF1:d20f57⟧",
+  "carbon": "the-prelude.carbon.tiff (TIFF)",
+  "silicon": "the-prelude.silicon.png (PNG)",
+  "seal_sha256": "bb7448213619bd6491efb9bec423d61e071e8d4cbc664e46a0d3ee694c89a2e2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

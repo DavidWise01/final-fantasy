@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "WarMECH",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "electrical",
+  "moniker": "⟦WarMECH:FF1:764c4f⟧",
+  "carbon": "warmech.carbon.tiff (TIFF)",
+  "silicon": "warmech.silicon.png (PNG)",
+  "seal_sha256": "807b568f6c180580582b4da2457140d134cd5fded26104827451134a1d1947ce",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Princess Sara",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "natural",
+  "moniker": "⟦Princess Sara:FF1:1cbb26⟧",
+  "carbon": "princess-sara.carbon.tiff (TIFF)",
+  "silicon": "princess-sara.silicon.png (PNG)",
+  "seal_sha256": "8f7686eecfb779112f1635baf189d3838b53d4d74fcf31206ceb40dd874b8b4e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

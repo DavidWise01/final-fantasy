@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Loop of Time",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "ethereal",
+  "moniker": "⟦The Loop of Time:FF1:6ddd5e⟧",
+  "carbon": "the-time-loop.carbon.tiff (TIFF)",
+  "silicon": "the-time-loop.silicon.png (PNG)",
+  "seal_sha256": "78983ade292f96d3933853ad125418b0fcde0a2f25e42868d3ed193aea46fa30",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

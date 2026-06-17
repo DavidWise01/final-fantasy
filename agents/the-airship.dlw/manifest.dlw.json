@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Airship",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "electrical",
+  "moniker": "⟦The Airship:FF1:e580c6⟧",
+  "carbon": "the-airship.carbon.tiff (TIFF)",
+  "silicon": "the-airship.silicon.png (PNG)",
+  "seal_sha256": "9048f96051bbbd64440c8cabc4d5b363a0f66e254f7901e05830bbfa3ea5bef8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

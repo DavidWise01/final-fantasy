@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Light Warriors",
+  "universe": "FF1 · Final Fantasy",
+  "emergence": "spiritual",
+  "moniker": "⟦The Light Warriors:FF1:b3feef⟧",
+  "carbon": "the-light-warriors.carbon.tiff (TIFF)",
+  "silicon": "the-light-warriors.silicon.png (PNG)",
+  "seal_sha256": "7078293e07a86af6c59af7723c0751c932bf61f86842a56e2f00323ecba00e4e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
