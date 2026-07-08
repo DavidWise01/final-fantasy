@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 612
+slug  : final-fantasy
+seal  : 1adcfc2d6ba23bd7abf053216f6d99e0fd65458bb7b318846d7518d523e94e5e
+prev  : 5cc7bdc76fe1129ea7f22fa2d3653f8d43623d5dedcc7e50599648a28d6e7cde
+link  : 95ec794e94129b2dbbebce9e2baa747b61c4f25419976375614a8880a0260bd6
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
