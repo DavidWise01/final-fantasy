@@ -1,21 +1,19 @@
 {
-  "badge": "DLW-ACI",
-  "name": "FINAL FANTASY",
-  "universe": "FF1 · Final Fantasy",
-  "emergence": "",
-  "moniker": "⟦FINAL FANTASY:FF1:84e8b1⟧",
-  "carbon": "final-fantasy.carbon.tiff (TIFF)",
-  "silicon": "final-fantasy.silicon.png (PNG)",
-  "seal_sha256": "1adcfc2d6ba23bd7abf053216f6d99e0fd65458bb7b318846d7518d523e94e5e",
-  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "badge": "DLW-FINAL_FANTASY",
+  "name": "FF1 · FINAL FANTASY",
+  "universe": "HOBBY",
+  "moniker": "⟦FF1 · FINAL FANTASY:final-fantasy:b5637c⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "b5637caa5176fb2b931977816d4434cfb66c31390469d0f05d699c1de6f1f6b8",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 612,
-    "prev": "5cc7bdc76fe1129ea7f22fa2d3653f8d43623d5dedcc7e50599648a28d6e7cde",
-    "link": "95ec794e94129b2dbbebce9e2baa747b61c4f25419976375614a8880a0260bd6",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "e40be044a1330c76a7f63feed86a67ade6a2a69dbcd0657397e616002162a005",
+    "link": "cd8c9b7f0df317ed1f1a31140927e780f49f35e6eb365a74d75b00128d5df96f",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
